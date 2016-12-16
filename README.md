@@ -3,3 +3,6 @@ This is a basic HTTP serive. This service will take an image, apply a filter, an
 
 Current Filters:
 Supersampling
+
+Next Filter
+Median Filter
